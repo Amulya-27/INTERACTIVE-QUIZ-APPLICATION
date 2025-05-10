@@ -51,3 +51,7 @@ Database: MongoDB, PostgreSQL, or Firebase
 
 
  This task requires a blend of frontend and optional backend development skills, focusing on interactivity, responsive design, and user engagement. The final product should provide an enjoyable and educational experience, be easy to maintain, and scalable for future enhancements.
+
+ #OUTPUT
+
+ ![Image](https://github.com/user-attachments/assets/93bff41b-c0cc-4275-8447-029a26a8c91f)
